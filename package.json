@@ -1,6 +1,6 @@
 {
   "name": "new-conver-currency",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Function Conver Number to currency USD",
   "main": "src/index.js",
   "scripts": {

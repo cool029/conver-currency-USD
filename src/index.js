@@ -5,6 +5,6 @@ const numberToCurrency = (value) => {
     }).format(value)
 }
 
-export default {
+module.exports = {
     numberToCurrency
 }
