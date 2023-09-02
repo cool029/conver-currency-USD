@@ -1,0 +1,24 @@
+{
+  "name": "new-conver-currency",
+  "version": "1.0.0",
+  "description": "Function Conver Number to currency USD",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "conversor",
+    "USD"
+  ],
+  "author": "GaboProgramers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaboProgramers/conver-currency-USD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GaboProgramers/conver-currency-USD/issues"
+  },
+  "homepage": "https://github.com/GaboProgramers/conver-currency-USD#readme"
+}
